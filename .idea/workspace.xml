@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfeac705-fe1a-4c2f-a220-87dc30cc5348" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabalho Quiz Perguntas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetoQuiz.java" afterDir="false" />
-    </list>
+    <list default="true" id="dfeac705-fe1a-4c2f-a220-87dc30cc5348" name="Changes" comment="Inicial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="GabrelFreitas &lt;trgabrielmf6@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -54,6 +50,63 @@
       <option name="presentableId" value="Default" />
       <updated>1727824274424</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inicial">
+      <created>1727824996441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727824996441</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inicial">
+      <created>1727825016156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727825016156</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inicial">
+      <created>1727825032735</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727825032735</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inicial">
+      <created>1727825050620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727825050620</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inicial">
+      <created>1727825059168</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727825059168</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inicial">
+      <created>1727825104372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727825104372</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Inicial">
+      <created>1727825125053</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727825125053</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Inicial">
+      <created>1727825138590</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727825138590</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicial" />
   </component>
 </project>
